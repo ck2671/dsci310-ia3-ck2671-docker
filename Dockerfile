@@ -19,3 +19,4 @@ USER rstudio
 # Copy R script that uses cowsay
 COPY script.R /home/rstudio/script.R
 
+# Version 1.1
